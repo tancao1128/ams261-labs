@@ -14,7 +14,10 @@ Each lab follows one lecture. It lets you predict, compute, plot and check the i
 
 | Lab | Topic | Open |
 |:---|:---|:---|
+| Lab 15 | Partial Derivatives | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tancao1128/ams261-labs/blob/main/labs/AMS261-Lecture15.ipynb) [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tancao1128/ams261-labs/main?labpath=labs%2FAMS261-Lecture15.ipynb) [Download](https://raw.githubusercontent.com/tancao1128/ams261-labs/main/labs/AMS261-Lecture15.ipynb) |
 | Lab 18 | Directional Derivatives and the Gradient | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tancao1128/ams261-labs/blob/main/labs/AMS261-Lecture18.ipynb) [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tancao1128/ams261-labs/main?labpath=labs%2FAMS261-Lecture18.ipynb) [Download](https://raw.githubusercontent.com/tancao1128/ams261-labs/main/labs/AMS261-Lecture18.ipynb) |
+| Lab 20 | Extrema of Functions of Two Variables | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tancao1128/ams261-labs/blob/main/labs/AMS261-Lecture20.ipynb) [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tancao1128/ams261-labs/main?labpath=labs%2FAMS261-Lecture20.ipynb) [Download](https://raw.githubusercontent.com/tancao1128/ams261-labs/main/labs/AMS261-Lecture20.ipynb) |
+| Lab 21 | Lagrange Multipliers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tancao1128/ams261-labs/blob/main/labs/AMS261-Lecture21.ipynb) [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tancao1128/ams261-labs/main?labpath=labs%2FAMS261-Lecture21.ipynb) [Download](https://raw.githubusercontent.com/tancao1128/ams261-labs/main/labs/AMS261-Lecture21.ipynb) |
 
 ## Preview
 
