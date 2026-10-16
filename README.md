@@ -21,7 +21,7 @@ Each lab follows one lecture. It lets you predict, compute, plot and check the i
 
 ## Preview
 
-In Lab 18, a heat-seeking rover sits on a metal plate. The temperature is T(x, y) = 20 − 4x² − y² (°C, with x and y in cm). At the point P = (2, −3), the gradient is ∇T(P) = ⟨−16, 6⟩. The animation turns the heading φ once around the compass. Left: the rate of change D<sub>u</sub>T(P) = −16 cos φ + 6 sin φ. Right: the gradient (blue), the opposite direction (red), the two zero-change headings (green) and the heading u (amber).
+In Lab 18, a heat-seeking rover sits on a metal plate. The temperature is T(x, y) = 20 − 4x² − y² (°C, with x and y in cm). At the point P = (2, −3), the gradient is ∇T(P) = ⟨−16, 6⟩. The animation turns the heading φ once around the compass. Left: the rate of change D<sub>u</sub>T(P) = −16 cos φ + 6 sin φ. Right: the gradient (blue), the opposite direction (red), the two zero-rate headings (green) and the heading u (amber).
 
 <p align="center">
   <img src="assets/lab18-preview.gif" width="720" alt="Animation of a heading sweep at the point P = (2, −3). On the left, a cosine curve of the directional derivative against the heading angle phi, with a moving amber dot. On the right, a compass showing the gradient in blue, the negative gradient in red, the two zero-change headings in green dashed lines and the current heading u in amber.">

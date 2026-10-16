@@ -8,7 +8,7 @@ no dates in the metadata).
 
 The right-hand panel is drawn from data. It shows the isotherms of
 T(x, y) = 20 - 4x^2 - y^2, the point P = (2, -3), the gradient direction
-and the two zero-change headings.
+and the two zero-rate headings.
 """
 from pathlib import Path
 
@@ -158,7 +158,7 @@ def build():
 
     halo = [patheffects.withStroke(linewidth=4, foreground=SCREEN)]
 
-    # zero-change headings (green, dashed)
+    # zero-rate headings (green, dashed)
     L0 = 2.75
     for d in zero_dirs:
         tip = P + L0 * d
@@ -183,7 +183,7 @@ def build():
              fontsize=fs(22), fontweight="bold", ha="left", va="top",
              path_effects=halo, zorder=8)
     up = P + L0 * zero_dirs[0] if zero_dirs[0][1] > 0 else P + L0 * zero_dirs[1]
-    pax.text(up[0] + 0.3, up[1] + 0.1, "zero change", color=GREEN,
+    pax.text(up[0] + 0.3, up[1] + 0.1, "zero rate", color=GREEN,
              fontsize=fs(21), fontweight="bold", ha="left", va="bottom",
              path_effects=halo, zorder=8)
 
